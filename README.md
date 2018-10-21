@@ -1,4 +1,4 @@
-## **Map it with Python!** for North Bay Python 2018
+## **Map it with Python!** for [North Bay Python 2018](https://2018.northbaypython.org/)
 
 ### Data Sources
 
